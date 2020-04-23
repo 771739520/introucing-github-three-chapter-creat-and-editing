@@ -4,3 +4,4 @@ how to contributate the project
 third change the file for learn to create a pull request
 forth edit for the chapter four of the last part
 try the deploy key
+please see [contributing.md]{contributing.md}for detailed instructinos
